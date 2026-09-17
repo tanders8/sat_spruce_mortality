@@ -17,8 +17,8 @@ This repository contains the code for reproducing the analyses and simulations p
  - **`climatic_predictors_2019_2020.zip`**  
   A ZIP file containing the climatic predictor variables and the tree mortality data for the years 2019 and 2020.
 
-- **`lpj-guess_european_applications_tree_species_code_drought_mortality.zip`**  
-  A ZIP file containing the LPJ-GUESS source code with the implemented empirical-based drought mortality algorithms.
+- **`lpj-guess_european_applications_drought_mortality.zip`**  
+  A ZIP file containing the LPJ-GUESS source code with the implemented empirical-based drought mortality algorithms and the used LPJ-GUESS default version.
 
 ### Instructions
 
