@@ -1,4 +1,4 @@
-# Combining satellite-derived forest deadwood estimates and vegetation modelling to predict climate impacts on Norway spruce forests in Central Europe
+# Combining satellite-derived standing deadwood estimates and vegetation modelling to predict climate change impacts on Norway spruce forests in Germany
 
 ## Summary
 Recent summer droughts (2018–2020) caused unprecedented Norway spruce (Picea abies) mortality in Central Europe, producing large amounts of standing deadwood. Using satellite-derived standing deadwood data, we developed a weather-driven empirical model (GLM) of spruce mortality and integrated it into the dynamic vegetation model LPJ-GUESS. The DGVM reproduces observed mortality patterns and biomass declines in Germany. Future projections (2021–2070) under RCP2.6 and RCP8.5 indicate recurring drought-induced mortality, substantial carbon losses, and increased calamity timber, while harvests of target-diameter timber decline. Without incorporating weather-driven mortality, LPJ-GUESS underestimates drought impacts. These results highlight risks for carbon storage in Norway spruce forests and support a transition to more diverse mixed forests in Germany.
